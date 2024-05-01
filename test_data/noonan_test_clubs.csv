@@ -1,0 +1,17 @@
+﻿id,type,symbol,active
+1,Wood,1W,TRUE
+2,Wood,3W,TRUE
+3,Wood,5W,FALSE
+4,Hybrid,5H,TRUE
+5,Iron,4I,TRUE
+6,Iron,5I,TRUE
+7,Iron,6I,TRUE
+8,Iron,7I,TRUE
+9,Iron,8I,TRUE
+10,Iron,9I,TRUE
+11,Wedge,PW,TRUE
+12,Wedge,AW,TRUE
+13,Wedge,56deg,TRUE
+14,Wedge,60deg,FALSE
+15,Putter,Putter,TRUE
+16,None,None,TRUE

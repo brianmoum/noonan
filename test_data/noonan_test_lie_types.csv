@@ -1,0 +1,11 @@
+﻿id,name,type
+1,Tee,standard
+2,Fairway,standard
+3,Rough - First Cut,difficult
+4,Rough - Second Cut,difficult
+5,Rough - Deep,extreme
+6,Dirt,difficult
+7,Sand Trap,difficult
+8,Green,standard
+9,Hazard,out
+10,Out of Bounds,out
