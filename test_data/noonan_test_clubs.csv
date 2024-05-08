@@ -1,4 +1,4 @@
-﻿id,type,symbol,active
+﻿id,club_type,club_symbol,club_active
 1,Wood,1W,TRUE
 2,Wood,3W,TRUE
 3,Wood,5W,FALSE
